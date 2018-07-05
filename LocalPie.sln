@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalPie", "LocalPie\LocalPie.csproj", "{69421ED6-CD7E-42D6-A590-5544AF66190D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69421ED6-CD7E-42D6-A590-5544AF66190D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69421ED6-CD7E-42D6-A590-5544AF66190D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69421ED6-CD7E-42D6-A590-5544AF66190D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69421ED6-CD7E-42D6-A590-5544AF66190D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD86D9C4-B4A0-4D0D-8889-F4E756BA86F6}
+	EndGlobalSection
+EndGlobal
